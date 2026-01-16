@@ -24,3 +24,6 @@ This repository serves as a live portfolio of my progress, school assignments, a
 
 ---
 *“The best way to predict the future is to code it.”*
+
+#### 📁 Project Log.
+[Jan 2026] - Added HelloWorld.sol: Learned about State Variables and Constructors.
