@@ -27,3 +27,5 @@ This repository serves as a live portfolio of my progress, school assignments, a
 
 #### 📁 Project Log.
 [Jan 2026] - Added HelloWorld.sol: Learned about State Variables and Constructors.
+
+[Jan 20, 2026] - Added PiggyBank.sol: Learned about addresses, msg.sender, and payable functions.
